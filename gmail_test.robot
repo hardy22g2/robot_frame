@@ -4,7 +4,7 @@ Library           SeleniumLibrary
 ***Variables***
 ${BROWSER}        chrome
 ${GMAIL_URL}      https://mail.google.com
-${EMAIL}          hardeep.19964@gmail.com  # Replace with your actual email
+${EMAIL}          iamhardy326@gmail.com  # Replace with your actual email
 ${PASSWORD}       not2late       # Replace with your actual password
 
 ***Test Cases***
